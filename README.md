@@ -36,4 +36,4 @@ So, 27.01. -- min:  0°, max:  3°
 
 ## References
 * [Weather Forecast Website](https://www.wetter.de/)
-* [How to scrape websites with Python and BeautifulSoup|https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe]
+* [How to scrape websites with Python and BeautifulSoup](https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe)
